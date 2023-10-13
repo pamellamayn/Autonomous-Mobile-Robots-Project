@@ -1,0 +1,8 @@
+prefix=/home/adebolt/catkin_ws/devel
+
+Name: test_controller
+Description: Description of test_controller
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
