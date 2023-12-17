@@ -1,3 +1,0 @@
-<launch>
-  <node name="move_forward_node" pkg="deliverable_1" type="move_forward.py" output="screen"/>
-</launch>
